@@ -1,0 +1,17 @@
+ID: 1
+Name: Goku
+Level: 85
+HP: 900
+Attack: 100
+Defense: 20
+Agility: 30
+Guard: 20
+
+ID: 2
+Name: Vegeta
+Level: 86
+HP: 800
+Attack: 90
+Defense: 20
+Agility: 30
+Guard: 20
